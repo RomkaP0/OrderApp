@@ -1,0 +1,420 @@
+{
+  "name": "categories",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "x4SU3wU9T15fOzYqppELua",
+    "node": "41:6408",
+    "version": "3497300897",
+    "component-id": "466437adfcc0d8cfd0f133f0cb93767f9268ad46"
+  },
+  "default": "Categories",
+  "documentation": "Category_list",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Category"
+      },
+      {
+        "type": "group",
+        "id": "Category1"
+      },
+      {
+        "type": "group",
+        "id": "Category2"
+      },
+      {
+        "type": "group",
+        "id": "Category3"
+      },
+      {
+        "type": "group",
+        "id": "Category4"
+      },
+      {
+        "type": "group",
+        "id": "Category5"
+      },
+      {
+        "type": "text",
+        "id": "Label"
+      },
+      {
+        "type": "text",
+        "id": "Label1"
+      },
+      {
+        "type": "text",
+        "id": "Label2"
+      },
+      {
+        "type": "text",
+        "id": "Label3"
+      },
+      {
+        "type": "text",
+        "id": "Label4"
+      },
+      {
+        "type": "text",
+        "id": "Label5"
+      }
+    ],
+    "modes": {
+      "Categories": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "left": "16.0",
+              "right": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Category",
+              "Category1",
+              "Category2",
+              "Category3",
+              "Category4",
+              "Category5"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Category",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Label"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "17.757847533632287",
+              "saturation": "0.9253112033195021",
+              "value": "0.9450980392156862"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Category1",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Label1"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Category2",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Label2"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Category3",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Label3"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Category4",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Label4"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Category5",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Label5"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Label",
+            "tap-handler": "$on Label tapped",
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "$Label text content",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0"
+          },
+          {
+            "id": "Label1",
+            "tap-handler": "$on Label tapped2",
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "0.8666666666666667",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "$Label text content2",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0"
+          },
+          {
+            "id": "Label2",
+            "tap-handler": "$on Label tapped3",
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "0.8666666666666667",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "$Label text content3",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0"
+          },
+          {
+            "id": "Label3",
+            "tap-handler": "$on Label tapped4",
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "0.8666666666666667",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "$Label text content4",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0"
+          },
+          {
+            "id": "Label4",
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "0.8666666666666667",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Супы",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0"
+          },
+          {
+            "id": "Label5",
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "0.8666666666666667",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Десерты",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "Label text content": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "on Label tapped": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "Label text content2": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "on Label tapped2": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "Label text content3": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "on Label tapped3": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "Label text content4": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "on Label tapped4": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "Categories",
+      "size": {
+        "width": 375.0,
+        "height": 40.0
+      },
+      "parameters": {
+        "Label text content": "Роллы",
+        "Label text content2": "Суши",
+        "Label text content3": "Наборы",
+        "Label text content4": "Горячие блюда"
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
